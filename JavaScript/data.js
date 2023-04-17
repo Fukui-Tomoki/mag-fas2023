@@ -2,7 +2,7 @@ const sitedata = {
     'test': [
         {
             'パターン': `modal`,
-            'カードサムネイル': `./Image/Mission_0.png`,
+            'カードサムネイル': `../Image/Mission.jpg`,
             'カード見出し': `見出し`,
             'カード概要': `概要`,
             'モーダルタイトル': `魚`,
@@ -13,7 +13,7 @@ const sitedata = {
     'Mission01': [
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `Misson1`,
             "カード概要": `<p class="text01">
             
@@ -21,7 +21,7 @@ const sitedata = {
             "モーダルタイトル": `<h1 class="modal-title fs-5" id="exampleModalLabel">Misson01</h1>`,
             "モーダルの内容": `
             <header>
-            <img width="100%" src="./Image/ヘッダー.png" alt="" srcset="">
+            <img width="100%" src="../Image/ヘッダー.png" alt="" srcset="">
             </header>
             <h2 class="title03">Mission BOOTH No.01</h2>
             <p>
@@ -34,7 +34,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `スキタビ`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `<h1 class="modal-title fs-5" id="exampleModalLabel">ProjectN 2Q</h1>`,
@@ -45,14 +45,14 @@ const sitedata = {
             N/S高生のアイデアでコロナで落ち込んだ観光業界に貢献するためのプロジェクト！
             </p>
             <h2 class=" title03">最終成果物</h2>
-                    <img src="./Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
-                    <img src="./Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
                     <p>モーダルのコンテンツ文。</p>`,
             "pathid": `ProjectN20232Q`
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `おもちゃについて考えよう`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 3Q`,
@@ -64,11 +64,11 @@ const sitedata = {
             プロジェクトを通じて、「サステナブルであること」を考慮し、他者の視点を取り入れながら適切な情報を取捨選択し自ら企画・提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
-            <video src="./Photo/2023/Project N/ProN3Q - 2.mp4"></video>
-            <object data="./Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
+            <video src="../Photo/2023/Project N/ProN3Q - 2.mp4"></video>
+            <object data="../Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -76,7 +76,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `最高の音イノベーション`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 4Q`,
@@ -87,7 +87,7 @@ const sitedata = {
             ｢パッケージデザイン｣に取り組む主な目的は、他者視点を学ぶ事。自己視点を切り口にアイデアを出し、他者に魅力的に感じてもらえるパッケージデザインを自ら企画提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>`,
             "pathid": `ProjectN20234Q`
@@ -96,7 +96,7 @@ const sitedata = {
     'Mission02': [
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `<p class="text01">
             音を活用して生活をべんりにするものを作成！
@@ -112,7 +112,7 @@ const sitedata = {
                 <li>課題解決までの一連の流れを身につける</li>
             </ol>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -120,7 +120,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `スキタビ`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `<h1 class="modal-title fs-5" id="exampleModalLabel">ProjectN 2Q</h1>`,
@@ -131,14 +131,14 @@ const sitedata = {
             N/S高生のアイデアでコロナで落ち込んだ観光業界に貢献するためのプロジェクト！
             </p>
             <h2 class=" title03">最終成果物</h2>
-                    <img src="./Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
-                    <img src="./Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
                     <p>モーダルのコンテンツ文。</p>`,
             "pathid": `ProjectN20232Q`
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `ハッピーセット<br>のおもちゃ<br>について考えよう`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 3Q`,
@@ -150,11 +150,11 @@ const sitedata = {
             プロジェクトを通じて、「サステナブルであること」を考慮し、他者の視点を取り入れながら適切な情報を取捨選択し自ら企画・提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
-            <video src="./Photo/2023/Project N/ProN3Q - 2.mp4"></video>
-            <object data="./Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
+            <video src="../Photo/2023/Project N/ProN3Q - 2.mp4"></video>
+            <object data="../Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -162,7 +162,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 4Q`,
@@ -173,7 +173,7 @@ const sitedata = {
             ｢パッケージデザイン｣に取り組む主な目的は、他者視点を学ぶ事。自己視点を切り口にアイデアを出し、他者に魅力的に感じてもらえるパッケージデザインを自ら企画提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>`,
             "pathid": `ProjectN20234Q`
@@ -182,7 +182,7 @@ const sitedata = {
     'Mission03': [
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `<p class="text01">
             音を活用して生活をべんりにするものを作成！
@@ -198,7 +198,7 @@ const sitedata = {
                 <li>課題解決までの一連の流れを身につける</li>
             </ol>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -206,7 +206,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `スキタビ`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `<h1 class="modal-title fs-5" id="exampleModalLabel">ProjectN 2Q</h1>`,
@@ -217,14 +217,14 @@ const sitedata = {
             N/S高生のアイデアでコロナで落ち込んだ観光業界に貢献するためのプロジェクト！
             </p>
             <h2 class=" title03">最終成果物</h2>
-                    <img src="./Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
-                    <img src="./Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
                     <p>モーダルのコンテンツ文。</p>`,
             "pathid": `ProjectN20232Q`
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `ハッピーセット<br>のおもちゃ<br>について考えよう`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 3Q`,
@@ -236,11 +236,11 @@ const sitedata = {
             プロジェクトを通じて、「サステナブルであること」を考慮し、他者の視点を取り入れながら適切な情報を取捨選択し自ら企画・提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
-            <video src="./Photo/2023/Project N/ProN3Q - 2.mp4"></video>
-            <object data="./Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
+            <video src="../Photo/2023/Project N/ProN3Q - 2.mp4"></video>
+            <object data="../Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -248,7 +248,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 4Q`,
@@ -259,7 +259,7 @@ const sitedata = {
             ｢パッケージデザイン｣に取り組む主な目的は、他者視点を学ぶ事。自己視点を切り口にアイデアを出し、他者に魅力的に感じてもらえるパッケージデザインを自ら企画提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>`,
             "pathid": `ProjectN20234Q`
@@ -268,7 +268,7 @@ const sitedata = {
     'Mission04': [
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `<p class="text01">
             音を活用して生活をべんりにするものを作成！
@@ -284,7 +284,7 @@ const sitedata = {
                 <li>課題解決までの一連の流れを身につける</li>
             </ol>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN1Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -292,7 +292,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `スキタビ`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `<h1 class="modal-title fs-5" id="exampleModalLabel">ProjectN 2Q</h1>`,
@@ -303,14 +303,14 @@ const sitedata = {
             N/S高生のアイデアでコロナで落ち込んだ観光業界に貢献するためのプロジェクト！
             </p>
             <h2 class=" title03">最終成果物</h2>
-                    <img src="./Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
-                    <img src="./Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 1.jpg" alt="" srcset="">
+                    <img src="../Photo/2023/Project N/ProN2Q - 2.jpg" alt="" srcset="">
                     <p>モーダルのコンテンツ文。</p>`,
             "pathid": `ProjectN20232Q`
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `ハッピーセット<br>のおもちゃ<br>について考えよう`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 3Q`,
@@ -322,11 +322,11 @@ const sitedata = {
             プロジェクトを通じて、「サステナブルであること」を考慮し、他者の視点を取り入れながら適切な情報を取捨選択し自ら企画・提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN3Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
-            <video src="./Photo/2023/Project N/ProN3Q - 2.mp4"></video>
-            <object data="./Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
+            <video src="../Photo/2023/Project N/ProN3Q - 2.mp4"></video>
+            <object data="../Photo/2023/Project N/ProN3Q - 3.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>
             `,
@@ -334,7 +334,7 @@ const sitedata = {
         },
         {
             "パターン": `modal`,
-            "カードサムネイル": `./Image/Mission_0.png`,
+            "カードサムネイル": `../Image/Mission.jpg`,
             "カード見出し": `私たちの考える<br>最高の音イノベーション`,
             "カード概要": `以下のテキストを追加のコンテンツへの自然な導入としてサポート。カードのコンテンツ カードのコンテンツ`,
             "モーダルタイトル": `ProjectN 4Q`,
@@ -345,7 +345,7 @@ const sitedata = {
             ｢パッケージデザイン｣に取り組む主な目的は、他者視点を学ぶ事。自己視点を切り口にアイデアを出し、他者に魅力的に感じてもらえるパッケージデザインを自ら企画提案できる人物を目指します。
             </p>
             <h2 class="title03">最終成果物</h2>
-            <object data="./Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
+            <object data="../Photo/2023/Project N/ProN4Q - 1.pdf" type="application/pdf" width="100%" height="600px">
             <p>このブラウザでは PDF がサポートされていません。ダウンロードしてください。</p>
             </object>`,
             "pathid": `ProjectN20234Q`
