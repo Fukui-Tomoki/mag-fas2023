@@ -1,0 +1,42 @@
+/* 
+#d1c8c5
+#e8ede1
+#a9c4e2
+#343333
+#52565b
+#f3c035
+ */
+
+body {
+    background-image: url("../Image/背景.png");
+}
+
+.card-title {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.g-0 {
+    padding: 10px;
+}
+
+.card-body {
+    padding: 0%;
+}
+
+.card {
+    margin: 10px;
+    border-color: #52565b;
+    border-width: 2.5px;
+}
+
+.title02 {
+    max-width: 45%;
+    min-width: 20%;
+    padding-left: 10px;
+}
+
+.list-group-item {
+    background-color: #f2f3f3;
+    border: #f3c134 solid 10px;
+}
