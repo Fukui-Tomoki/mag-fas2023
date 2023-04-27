@@ -1,0 +1,74 @@
+/* 
+#d1c8c5
+#e8ede1
+#a9c4e2
+#343333
+#52565b
+#f3c035
+ */
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+
+body {
+    background-image: url("../Image/背景.png");
+}
+
+.card-title {
+    font-family: 'Kaisei Decol', serif;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.modal-title {
+    font-family: 'Kaisei Decol', serif;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.g-0 {
+    padding: 10px;
+}
+
+.card-body {
+    padding: 0%;
+}
+
+.card {
+    margin: 10px;
+    border-color: #52565b;
+    border-width: 2.5px;
+}
+
+.title02 {
+    max-width: 45%;
+    min-width: 20%;
+    padding-left: 10px;
+}
+
+.title03 {
+    font-family: 'Kaisei Decol', serif;
+    margin-top: 20px;
+}
+
+.list-group-item {
+    background-color: #f2f3f3;
+    border: #f3c134 solid 10px;
+}
+
+p {
+    font-family: 'New Tegomin', serif;
+    font-size: 20px;
+}
+
+.sample13 {
+    border-top: dotted 3px #8ec6ff;
+    position: relative;
+}
+
+.sample13:after {
+    position: absolute;
+    display: block;
+    content: " ";
+    border-top: solid 3px #ffc78f;
+    bottom: -3px;
+    width: 50%;
+}
