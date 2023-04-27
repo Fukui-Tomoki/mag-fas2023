@@ -10,7 +10,7 @@ function modal(place, data, i, id) {
         <h5 class="card-title">${data["カード見出し"]}</h5>
           <button type="button" class="btn btn-primary" data-bs-toggle="modal"
                         data-bs-target="#${id}-${i + 1}">
-                        ココを押すと詳細を表示
+                        ミッションを表示
                         </button>
         </div>
       </div>
